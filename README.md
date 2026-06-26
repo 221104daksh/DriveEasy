@@ -222,7 +222,7 @@ git push origin feature-name
 **Daksh Sharma**
 
 * GitHub: https://github.com/221104daksh
-* LinkedIn: *(Add your LinkedIn profile URL here)*
+
 
 ---
 
