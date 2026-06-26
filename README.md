@@ -1,8 +1,6 @@
 # 🚗 DriveEasy – Car Rental Management System
 
-<p align="center">
-  <img src="assets/logo.png" alt="DriveEasy Logo" width="180"/>
-</p>
+
 
 <p align="center">
   <b>A modern Car Rental Management System built with Streamlit, Python, and SQLite.</b><br>
